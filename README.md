@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Di12-23
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hii people !! , I’m DIVYA
+- 👀 I’m interested in Transfer learning(image clssification),tensor flow,Android development
+- 🌱 I’m currently learning Deep Learning 
+- 💞️ I’m looking to collaborate on Deep learning projects
+- 📫 How to reach me ?? answer is my mail : divyaparihar315@gmail.com
 
 <!---
 Di12-23/Di12-23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
