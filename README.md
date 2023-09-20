@@ -2,7 +2,7 @@
 - 👀 I’m interested in Transfer learning(image clssification),tensor flow,Android development
 - 🌱 I’m currently learning Deep Learning 
 - 💞️ I’m looking to collaborate on Deep learning projects
-- 📫 How to reach me ?? answer is  : divyaparihar315@gmail.com
+- 📫 How to reach me ??  divyaparihar315@gmail.com
 
 <!---
 Di12-23/Di12-23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
