@@ -1,5 +1,5 @@
 - 👋 Hii people !! , I’m DIVYA
-- 👀 I’m interested in Transfer learning(image clssification),tensor flow,Android development
+- 👀 I’m interested in Transfer learning,tensor flow, web development
 - 🌱 I’m currently learning Deep Learning 
 - 💞️ I’m looking to collaborate on Deep learning projects
 - 📫 How to reach me ??  divyaparihar315@gmail.com
